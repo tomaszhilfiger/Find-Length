@@ -1,0 +1,18 @@
+Find length of smallest subarray whose sum of elements is greater than the given number: 
+Example:
+Input: 1,2,3,4,5,6,7,8 k=20
+Output: 6,7,8
+
+Input: 1,2,3,4,5,6,7,8 k=7
+Output: 8
+
+Input: 1,2,3,4,5,6,7,8 k=21
+Output: 5,6,7,8
+
+Input: 1,2,3,4,5,6,7,8 k=40
+Output: No sub-array exists
+
+Also my code should save my results to .txt file
+I'm looking for help because I'm beginner with programming and I really don't know how to start. Thats my first project at college. A lot of searching help by internet, some
+kind of courses and still don't know how to start, how understand this all functions, I guess its not that simple like to wrote ,,Hello World". I want to analyze code with your
+help guys. I'm not lazy but desperate. I have to wrote this in c++. Please :( 
